@@ -2,8 +2,8 @@
 A basic to do application made with Angular
 
 ## More details
-https://www.youtube.com/watch?v=pLKVa1l7KMs
-
+* Embedd in a cool way https://www.youtube.com/watch?v=pLKVa1l7KMs
+* Make lisence pop up on page
 
 ## Install Instructions
 * Add These
