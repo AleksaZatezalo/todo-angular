@@ -2,7 +2,10 @@
 A basic to do application made with Angular
 
 ## More details
-Made some small project following this tutorial below. Just to learn Angular. https://www.youtube.com/watch?v=pLKVa1l7KMs
+Made some small project following this tutorial below. Needed to learn angular to help with a friends startup. 
+
+For more info on the use-cases of network segemntation watch the video below.
+[![Watch the video](https://img.youtube.com/vi/pLKVa1l7KMs/maxresdefault.jpg)](https://youtu.be/pLKVa1l7KMs)
 
 ## Install Instructions
 Run the following commands:
