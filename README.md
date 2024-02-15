@@ -2,13 +2,15 @@
 A basic to do application made with Angular
 
 ## More details
-* Embedd in a cool way https://www.youtube.com/watch?v=pLKVa1l7KMs
-* Make lisence pop up on page
+Made some small project following this tutorial below. Just to learn Angular. https://www.youtube.com/watch?v=pLKVa1l7KMs
 
 ## Install Instructions
-* Add These
-* Make it Hype
-
+Run the following commands:
+```
+> git clone https://github.com/AleksaZatezalo/todo-angular
+> cd todo-angular/src
+> ng serve
+```
 ## Contribution Guidlines
 When contributing to this repository, please first discuss the change you wish to make via issue here on GitHub. Make sure all pull requests are tagged with a specific ticket number found in the repositories issues section.Before making any changes please create your own branch. Follow all three points below before opening a PR:
 
